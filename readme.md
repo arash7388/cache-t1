@@ -93,8 +93,8 @@ Invalid input! Please enter numeric values only.
 ### 1) Clone the Project
 
 ```bash
-git clone https://github.com/<org>/<repo>.git
-cd <repo>
+git clone https://github.com/dotin-challenge/cache-t1.git
+cd cache-t1
 ```
 
 ### 2) Build and Run
@@ -102,6 +102,14 @@ cd <repo>
 ```bash
 dotnet build
 dotnet run
+```
+
+### 3) (Optional) Run Tests
+
+If test files are included:
+
+```bash
+dotnet test
 ```
 
 ---
