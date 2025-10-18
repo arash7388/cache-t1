@@ -93,8 +93,8 @@ Invalid input! Please enter numeric values only.
 ### 1) کلون پروژه
 
 ```bash
-git clone https://github.com/<org>/<repo>.git
-cd <repo>
+git clone https://github.com/dotin-challenge/cache-t1.git
+cd cache-t1
 ```
 
 ### 2) بیلد و اجرا
